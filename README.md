@@ -25,15 +25,12 @@ set up the necessary dependencies, including installing MongoDB, MySQL, and the 
 Fetching YouTube Channel Details:
 
 Use the googleapiclient library to interact with the YouTube API and fetch the desired channel details. You may need to set up an API key to authenticate your requests.
-
 Process the fetched data and store it in a suitable format (e.g., pandas DataFrame).
 
 Saving Data to MongoDB:
 
 Connect to your MongoDB database using the appropriate driver or ORM (Object-Relational Mapping) library.
-
 Create a collection (similar to a table in SQL) to store the YouTube channel details.
-
 Insert the processed data from step 1 into the MongoDB collection.
 
 Migrating Data to MySQL:
@@ -45,9 +42,7 @@ Query the data from the MongoDB collection and insert it into the MySQL table.
 Retrieving Query Results and Performing Queries in Streamlit:
 
 Use the pymysql library to establish a connection to your MySQL database.
-
 Write SQL queries to retrieve the desired information from the MySQL table.
-
 Utilize the streamlit library to create a web application.
 
 Display the query results in the Streamlit application and enable users to perform additional queries or interact with the data.
