@@ -31,7 +31,7 @@ Saving Data to MongoDB:
 
 Connect to your MongoDB database using the appropriate driver or ORM (Object-Relational Mapping) library.
 Create a collection (similar to a table in SQL) to store the YouTube channel details.
-Insert the processed data from step 1 into the MongoDB collection.
+Insert the processed data into the MongoDB collection.
 
 Migrating Data to MySQL:
 
