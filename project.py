@@ -11,14 +11,14 @@ import pandas as pd
 st.title(':Black[Youtube Data Analysis]')
 
 # Connect to MongoDB
-client = pymongo.MongoClient('mongodb+srv://soujanyacs1997:Ammu2397@cluster0.stgpqbt.mongodb.net/')
+client = pymongo.MongoClient('mongodb+srv://username:****@cluster0.stgpqbt.mongodb.net/')
 database = client['YoutubeFinal']
 channel_collection = database['channelsData']
 video_collection = database['videosData']
 comment_collection = database['commentsData']
 
 # Set up YouTube API client
-api_key = 'AIzaSyDQUzmyyk638h9b07UMTgyqsrQYmKCJQfs'
+api_key = 'yourapi'
 youtube = build('youtube', 'v3', developerKey=api_key)
 
 def youtube_analysis_page():
@@ -186,7 +186,7 @@ def youtube_analysis_page():
         connection = pymysql.connect(
             host='localhost',
             user='root',
-            password='Ammu@2397',
+            password='mysql_password',
             database='youtubedata'
         )
 
@@ -299,7 +299,7 @@ def SQL_queries_page():
     connection = pymysql.connect(
         host='localhost',
         user='root',
-        password='Ammu@2397',
+        password='mysql-password',
         database='youtubedata'
     )
 
