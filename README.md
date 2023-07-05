@@ -42,7 +42,6 @@ Retrieving Query Results and Performing Queries in Streamlit:
 
 Use the pymysql library to establish a connection to your MySQL database.
 Write SQL queries to retrieve the desired information from the MySQL table.
-Utilize the streamlit library to create a web application.
 
 Display the query results in the Streamlit application and enable users to perform additional queries or interact with the data.
 
