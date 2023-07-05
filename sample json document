@@ -1,0 +1,1515 @@
+{
+  "_id": {
+    "$oid": "64a565afe6d542095b5c0042"
+  },
+  "Channel_Details": {
+    "Channel_Name": "Sujay Nadkarni",
+    "ChannelId": "UCAhplpsDYvq0W1F4hcSrqnw",
+    "Total_Videos": "135",
+    "Subscriber_Count": "2360",
+    "Views": "96758"
+  },
+  "Videos": [
+    {
+      "VideoId": "eVS021CDhRI",
+      "Title": "Mastering Embedded Lightning Web Components (LWC) in CRM Analytics Dashboard",
+      "PublishedAt": "2023-05-26T14:11:02Z",
+      "Views": "482",
+      "Likes": "9",
+      "Comments_Count": "1",
+      "Comments": [
+        "This is fantastic. We have a similar requirement for our client and this will be really helpful us. I have one question though. When we are making inline edits on the LWC component, will it get reflected on the TCRM dashboard in real time? I believe the recipe runs after a certain interval of time and only then the dashboard can bring the latest data from SFDC objects. Appreciate any help on this."
+      ]
+    },
+    {
+      "VideoId": "xqVWzDd8X4Q",
+      "Title": "Soft Skills for Data Analysts # #analyst #dataanalysis #dataanalytics #softskills #datascience",
+      "PublishedAt": "2023-04-12T15:23:37Z",
+      "Views": "342",
+      "Likes": "9",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "GKmGajbSZMA",
+      "Title": "100 days data analyst plan #dataanalysis #dataanalyst #datascience",
+      "PublishedAt": "2023-03-29T02:48:43Z",
+      "Views": "319",
+      "Likes": "38",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "UIum9JQzXdM",
+      "Title": "3 things every data analyst must know #dataanalyst #dataanalysis #data",
+      "PublishedAt": "2023-03-20T14:29:06Z",
+      "Views": "244",
+      "Likes": "28",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "ChlABeScF88",
+      "Title": "🤯Reality of data analyst jobs #dataanalyst #dataanalysis #data",
+      "PublishedAt": "2023-03-15T15:23:38Z",
+      "Views": "1199",
+      "Likes": "57",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "exCq8WpG8IQ",
+      "Title": "Enter tech industry with confidence!.  #techjobs #machinelearning #opt #dataanalyst #datascience",
+      "PublishedAt": "2023-03-14T15:31:31Z",
+      "Views": "218",
+      "Likes": "8",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "ul9g7RDu9bk",
+      "Title": "Use this website to find your next salesforce job.  Link in comments. @saasguruhq #salesforce #jobs",
+      "PublishedAt": "2023-03-13T15:54:19Z",
+      "Views": "312",
+      "Likes": "11",
+      "Comments_Count": "1",
+      "Comments": [
+        "<a href=\"https://my.saasguru.co/salesforcejob\">https://my.saasguru.co/salesforcejob</a>"
+      ]
+    },
+    {
+      "VideoId": "oa6cRxMwkjo",
+      "Title": "🔥 Free Resources to Learn Tableau #dataanalysis #dataanalyst #salesforce #data",
+      "PublishedAt": "2023-03-07T15:44:44Z",
+      "Views": "336",
+      "Likes": "45",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "NpqQzJjCLEM",
+      "Title": "Best Youtube channels to learn powerbi #powerbi #dataanalyst #youtube #shorts",
+      "PublishedAt": "2023-03-06T15:42:20Z",
+      "Views": "160",
+      "Likes": "23",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "LI3y2_E5up0",
+      "Title": "🔥 How much math do you need to be a data analyst? 📚#dataanalysis #shorts #dataanalyst #data",
+      "PublishedAt": "2023-03-01T15:15:40Z",
+      "Views": "331",
+      "Likes": "11",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "QPDec0jBoVw",
+      "Title": "🔥Re-Entering workforce with Confidence #shorts #dataanalyst #careergap #career #returntowork",
+      "PublishedAt": "2023-02-28T16:18:21Z",
+      "Views": "76",
+      "Likes": "5",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "P7OTI17Wp-M",
+      "Title": "Full Project in Excel | Essential Operations for Data Analysts",
+      "PublishedAt": "2023-02-27T17:05:45Z",
+      "Views": "1762",
+      "Likes": "70",
+      "Comments_Count": "21",
+      "Comments": [
+        "We need more project like this and E-Commerce",
+        "Excellent Content",
+        "Great",
+        "Thank you for sharing this video with us.I&#39;m very confused and fear  on pivot tables and vlookups  you make me a master on this .<br>I was fully enjoyed and excited on whathing this video😀😀<br>Thank u So much sir😘😘.",
+        "thoroughly enjoyed ....thank you for this video😊",
+        "Great content.",
+        "It&#39;s a great video, sir. I created a project and posted that on LinkedIn.",
+        "Sujay Thanks for doing this ❤",
+        "Thanks ,for uploading this video very Helpful to enhance my skills .",
+        "Nice sir",
+        "👍😊"
+      ]
+    },
+    {
+      "VideoId": "P81FBRhRStY",
+      "Title": "Three truths about data analytics and data science.#python #ai #chatgpt #analytics #",
+      "PublishedAt": "2023-02-24T15:47:35Z",
+      "Views": "257",
+      "Likes": "9",
+      "Comments_Count": "1",
+      "Comments": [
+        "Is there is only a negative part for data science Asperients! <br>Give some positive part too.. <br>Bzy, i wanna to be an data science students! <br>Also iam in the edge to choose like this course.."
+      ]
+    },
+    {
+      "VideoId": "eQkDyvlfgpQ",
+      "Title": "Salesforce Career Roadmap #salesforce #salesforceadmin #salesforceohana #career",
+      "PublishedAt": "2023-02-23T16:25:10Z",
+      "Views": "134",
+      "Likes": "10",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "3QTd5oW9WJ8",
+      "Title": "Mastering SQL Data Types: Optimize Your Database!",
+      "PublishedAt": "2023-02-22T22:29:19Z",
+      "Views": "410",
+      "Likes": "9",
+      "Comments_Count": "2",
+      "Comments": [
+        "Thanks for offering this course. No PC installation notes, just Mac? I&#39;ll just assume the process is very similar."
+      ]
+    },
+    {
+      "VideoId": "BzrHMqO4v6E",
+      "Title": "MySQL Joins EXPLAINED!",
+      "PublishedAt": "2023-02-22T22:29:19Z",
+      "Views": "251",
+      "Likes": "8",
+      "Comments_Count": "4",
+      "Comments": [
+        "Well explained thank you sir !!<br>Can you please continue this playlist and teach more about SQL?",
+        "Very clear - thank you for sharing."
+      ]
+    },
+    {
+      "VideoId": "CjNEFbBWkpg",
+      "Title": "Welcome to FREE SQL Course",
+      "PublishedAt": "2023-02-22T22:29:19Z",
+      "Views": "1924",
+      "Likes": "40",
+      "Comments_Count": "2",
+      "Comments": [
+        "Thank you so much Sujay for the wonderful course on SQL . Appreciate all your efforts and thanks for sharing."
+      ]
+    },
+    {
+      "VideoId": "FCb92psVTSc",
+      "Title": "AND & OR Operators in MySQL: Advanced Querying Techniques",
+      "PublishedAt": "2023-02-22T22:29:19Z",
+      "Views": "163",
+      "Likes": "3",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "KG03c8A8dvM",
+      "Title": "Discovering What SQL Is and How It Works",
+      "PublishedAt": "2023-02-22T22:29:19Z",
+      "Views": "453",
+      "Likes": "13",
+      "Comments_Count": "2",
+      "Comments": [
+        "thank u sir"
+      ]
+    },
+    {
+      "VideoId": "ZLvhlFeIL0Q",
+      "Title": "Mastering MySQL: Creating and Inserting Data Like a Pro",
+      "PublishedAt": "2023-02-22T22:29:19Z",
+      "Views": "445",
+      "Likes": "5",
+      "Comments_Count": "4",
+      "Comments": [
+        "Sir,<br>If you don&#39;t ,ine can u share some pdf on SQL",
+        "It’s really useful video for me 😊✨"
+      ]
+    },
+    {
+      "VideoId": "cRheWWMtvzk",
+      "Title": "Update Statements Made Easy: How to Modify Your SQL Data",
+      "PublishedAt": "2023-02-22T22:29:19Z",
+      "Views": "120",
+      "Likes": "1",
+      "Comments_Count": "1",
+      "Comments": [
+        "😌 &#39;Promosm&#39;"
+      ]
+    },
+    {
+      "VideoId": "hjHqjAoj1ns",
+      "Title": "Using HAVING Clause in Group By Statements",
+      "PublishedAt": "2023-02-22T22:29:19Z",
+      "Views": "139",
+      "Likes": "3",
+      "Comments_Count": "4",
+      "Comments": [
+        "If I want to filter out the table which came after group by then how would I do?",
+        "Very helpful 👍"
+      ]
+    },
+    {
+      "VideoId": "28VqUgNqvHY",
+      "Title": "How to Use UNION Statements for Data Combining",
+      "PublishedAt": "2023-02-22T22:29:18Z",
+      "Views": "125",
+      "Likes": "2",
+      "Comments_Count": "1",
+      "Comments": [
+        "&#39;Promo sm&#39;"
+      ]
+    },
+    {
+      "VideoId": "3zZxj9cRpxE",
+      "Title": "GROUP BY Clause in SQL: Group Data for Advanced Analysis",
+      "PublishedAt": "2023-02-22T22:29:18Z",
+      "Views": "151",
+      "Likes": "6",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "65Wy5TPFzL0",
+      "Title": "All Database Concepts EXPLAINED",
+      "PublishedAt": "2023-02-22T22:29:18Z",
+      "Views": "970",
+      "Likes": "20",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "6GrVg3uCOXA",
+      "Title": "How to use LIKE operator in SQL?",
+      "PublishedAt": "2023-02-22T22:29:18Z",
+      "Views": "193",
+      "Likes": "4",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "7891mZVQFdo",
+      "Title": "Mastering DISTINCT in MySQL: Finding and Counting Unique Values",
+      "PublishedAt": "2023-02-22T22:29:18Z",
+      "Views": "261",
+      "Likes": "2",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "7JGI4rl35FA",
+      "Title": "Mastering Aggregate Functions in SQL: Calculating MIN, MAX, AVG, SUM, and COUNT",
+      "PublishedAt": "2023-02-22T22:29:18Z",
+      "Views": "150",
+      "Likes": "4",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "8Zl1-5fv9UY",
+      "Title": "How to Sort Data in SQL",
+      "PublishedAt": "2023-02-22T22:29:18Z",
+      "Views": "152",
+      "Likes": "2",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "FPRAm0X34Jc",
+      "Title": "How to Use Select and Limit Keywords to Query Your Data Like a Pro",
+      "PublishedAt": "2023-02-22T22:29:18Z",
+      "Views": "276",
+      "Likes": "4",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "OpR1aeHy0aU",
+      "Title": "Learn How to Install MySQL Workbench in 1 Minute",
+      "PublishedAt": "2023-02-22T22:29:18Z",
+      "Views": "342",
+      "Likes": "5",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "Req0CFvBxNw",
+      "Title": "A Step-by-Step Guide to Installing MySQL",
+      "PublishedAt": "2023-02-22T22:29:18Z",
+      "Views": "423",
+      "Likes": "4",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "TaHo9QkubEU",
+      "Title": "What are Keys in Database?",
+      "PublishedAt": "2023-02-22T22:29:18Z",
+      "Views": "505",
+      "Likes": "10",
+      "Comments_Count": "2",
+      "Comments": [
+        "Very nice explaination Thanks you"
+      ]
+    },
+    {
+      "VideoId": "VgcjjtF6_2Y",
+      "Title": "Mastering WHERE Clause in MySQL: Filtering Data Like a Pro!",
+      "PublishedAt": "2023-02-22T22:29:18Z",
+      "Views": "178",
+      "Likes": "4",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "hhvh8USZ9OE",
+      "Title": "SQL Views: How to use and when to use?",
+      "PublishedAt": "2023-02-22T22:29:18Z",
+      "Views": "155",
+      "Likes": "4",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "vpG3METJ_bk",
+      "Title": "SQL Aliases: What They Are and How to Use Them",
+      "PublishedAt": "2023-02-22T22:29:18Z",
+      "Views": "135",
+      "Likes": "2",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "y8baIKvkmcw",
+      "Title": "Mastering the IN Operator in SQL: Simplify Your Searches!",
+      "PublishedAt": "2023-02-22T22:29:18Z",
+      "Views": "134",
+      "Likes": "2",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "pYIZTASCo4Q",
+      "Title": "Project Ideas for Data Analysts #shorts #dataanalysis #dataanalyst #data",
+      "PublishedAt": "2023-02-22T15:25:15Z",
+      "Views": "151",
+      "Likes": "6",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "yY_3XfYBhb4",
+      "Title": "FREE salesforce bootcamp.  Details on my instagram page @thenadcoder #salesforce #salesforceadmin",
+      "PublishedAt": "2023-02-21T15:19:01Z",
+      "Views": "122",
+      "Likes": "4",
+      "Comments_Count": "1",
+      "Comments": [
+        "Register Here:<br><br><a href=\"https://www.saasguru.co/online-bootcamps-india/?utm_source=Instagram&amp;utm_medium=Sujay&amp;utm_campaign=bootcamp\">https://www.saasguru.co/online-bootcamps-india/?utm_source=Instagram&amp;utm_medium=Sujay&amp;utm_campaign=bootcamp</a>"
+      ]
+    },
+    {
+      "VideoId": "KqaUMLJ8KGQ",
+      "Title": "Excel your skills with these two resources. #excel #exceltutorial #exceltips #dataanalysis #coursera",
+      "PublishedAt": "2023-02-20T16:22:56Z",
+      "Views": "66",
+      "Likes": "2",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "bcyyfqX_PUg",
+      "Title": "Web scraping using pandas in 1 minute.  Lets go!! 🚀#python #shorts",
+      "PublishedAt": "2023-02-17T17:17:03Z",
+      "Views": "174",
+      "Likes": "4",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "Lj90RLmTQoI",
+      "Title": "Data Analytics Demystified",
+      "PublishedAt": "2023-02-16T22:15:54Z",
+      "Views": "112",
+      "Likes": "3",
+      "Comments_Count": "1",
+      "Comments": [
+        "Ebook Available Here: <a href=\"https://thenadcoder.gumroad.com/l/masteringsql\">https://thenadcoder.gumroad.com/l/masteringsql</a><br><br>65 Pages created to teach you why Analytics is important. It contains most common SQL queries, interview questions, job and resume tips along with sample resume.  Thank you for your support.  Link below: 🙏"
+      ]
+    },
+    {
+      "VideoId": "UN_tfhvCbqo",
+      "Title": "Data Analytics Project in 1 minute #dataanalysis #dataanalyst #tableau #data #shorts",
+      "PublishedAt": "2023-02-16T16:37:03Z",
+      "Views": "579",
+      "Likes": "26",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "_T47LTMVmoU",
+      "Title": "Data Analysts: Land your Dream Job with Harvard’s Free Resume Template #shorts #resume #analytics",
+      "PublishedAt": "2023-02-15T16:21:24Z",
+      "Views": "263",
+      "Likes": "11",
+      "Comments_Count": "2",
+      "Comments": [
+        "How do I download the template can u lead me to link"
+      ]
+    },
+    {
+      "VideoId": "qnk3Zk9wXw8",
+      "Title": "Complete roadmap -learn sql for free #sql #dataanalysis #dataanalyst #interview",
+      "PublishedAt": "2023-02-14T15:36:27Z",
+      "Views": "120",
+      "Likes": "3",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "mEx1Uao9abY",
+      "Title": "Tip for data analysts #dataanalysis #dataanalyst #analytics #data #shorts",
+      "PublishedAt": "2023-02-10T15:28:22Z",
+      "Views": "64",
+      "Likes": "2",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "WTF08lHrD44",
+      "Title": "How to learn Programming for free! #chatgpt #dataanalysis #youtube #shorts",
+      "PublishedAt": "2023-02-08T16:36:29Z",
+      "Views": "141",
+      "Likes": "4",
+      "Comments_Count": "1",
+      "Comments": [
+        "I wouldn’t recommend using ChatGPT to learn programming as it’s producing incorrect results and facts. Use official documentations as much as possible."
+      ]
+    },
+    {
+      "VideoId": "z9G5g5qHdSw",
+      "Title": "Day in the life of a Salesforce Administrator looks like this #salesforce #salesforceadmin",
+      "PublishedAt": "2023-02-07T15:34:07Z",
+      "Views": "752",
+      "Likes": "30",
+      "Comments_Count": "1",
+      "Comments": [
+        "Is it a stressful job <br>Whats your opinion?"
+      ]
+    },
+    {
+      "VideoId": "VB30uFvT_ds",
+      "Title": "Free resources to start your data analytics journey #data #dataanalysis #powerbi #tableau #sql",
+      "PublishedAt": "2023-02-06T16:00:56Z",
+      "Views": "267",
+      "Likes": "15",
+      "Comments_Count": "3",
+      "Comments": [
+        "Congratulations on your Salesforce Associate certification"
+      ]
+    },
+    {
+      "VideoId": "QQqd9jApTEA",
+      "Title": "How to pass your Salesforce retake exam for free   #salesforce #salesforceadmin #salesforceohana",
+      "PublishedAt": "2023-01-23T14:56:33Z",
+      "Views": "355",
+      "Likes": "12",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "J3FwTFR-BOw",
+      "Title": "#dataanalyst #dataanalytics #datascience",
+      "PublishedAt": "2023-01-21T03:10:58Z",
+      "Views": "54",
+      "Likes": "6",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "D4DyMIXOUH4",
+      "Title": "How to scrape ESPN Cricinfo website with Pandas",
+      "PublishedAt": "2022-12-29T16:13:02Z",
+      "Views": "817",
+      "Likes": "16",
+      "Comments_Count": "4",
+      "Comments": [
+        "great video",
+        "its a really good video<br>thanks"
+      ]
+    },
+    {
+      "VideoId": "gqXBmMq7Q5c",
+      "Title": "FREE Resources to pass Salesforce Associate Certification #salesforce #salesforcecertification",
+      "PublishedAt": "2022-12-20T17:09:01Z",
+      "Views": "400",
+      "Likes": "6",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "JOcZ7CdAvps",
+      "Title": "Have you seen Google's Interview Warm Up Tool?",
+      "PublishedAt": "2022-12-07T18:51:34Z",
+      "Views": "183",
+      "Likes": "5",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "DOe-h-gJsgk",
+      "Title": "Data Analyst vs Data Scientist Explained",
+      "PublishedAt": "2022-12-05T22:47:03Z",
+      "Views": "149",
+      "Likes": "9",
+      "Comments_Count": "2",
+      "Comments": [
+        "Explained like warm butter melting inside mouth Yum! You&#39;re super 🙌🙌🙌🤝"
+      ]
+    },
+    {
+      "VideoId": "z1379MiFWzo",
+      "Title": "Perform Exploratory Data Analysis in Python with 2 lines of Code",
+      "PublishedAt": "2022-12-02T16:17:02Z",
+      "Views": "225",
+      "Likes": "15",
+      "Comments_Count": "2",
+      "Comments": [
+        "Great and very helpful video. However, there is a question as to why we take pricing in particular. Could you elaborate a little more on the Target Feature?"
+      ]
+    },
+    {
+      "VideoId": "JPmKcDN452Q",
+      "Title": "How to create resumes for FAANG",
+      "PublishedAt": "2022-11-30T16:20:26Z",
+      "Views": "199",
+      "Likes": "12",
+      "Comments_Count": "1",
+      "Comments": [
+        "Needed that 🤟Thanks!! Want more views? -&gt; P r o m o s m!"
+      ]
+    },
+    {
+      "VideoId": "M4J40JOcdAU",
+      "Title": "Learn to Integrate Snowflake with Salesforce CRM Analytics in 3 minutes",
+      "PublishedAt": "2022-11-30T16:03:45Z",
+      "Views": "1443",
+      "Likes": "24",
+      "Comments_Count": "14",
+      "Comments": [
+        "When we update data In snowflake It is not reflected in Salesforce object",
+        "Hi . Can we send the data from salesforce to snowflake in this way ?",
+        "…I love data shares",
+        "Hello sujay sir<br>Getting firewall error while trying to connect AWS Redshift to CRM analytics. How to resolve this",
+        "Hi Sujay <br><br>This is quite informative.  <br><br>Though, I am unable to test the connection due to  IP address . Will this work once the IP is whitelisted ?",
+        "Put more vedios on crm analytics",
+        "Very useful 🔥🔥🔥"
+      ]
+    },
+    {
+      "VideoId": "bj0AZAcUilg",
+      "Title": "3 Apps I use to learn coding",
+      "PublishedAt": "2022-11-29T15:45:53Z",
+      "Views": "228",
+      "Likes": "5",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "QxL03nCH3ZE",
+      "Title": "3 Websites To Help You through a Laid Off Situation",
+      "PublishedAt": "2022-11-21T17:23:08Z",
+      "Views": "163",
+      "Likes": "2",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "V3fxvcGF9vY",
+      "Title": "5 Questions Every Business Analyst must Ask",
+      "PublishedAt": "2022-11-18T15:05:57Z",
+      "Views": "85",
+      "Likes": "4",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "6JtgDZp7I8g",
+      "Title": "How to get Salesforce Certified in 8 weeks? #salesforce #certification #careersintech",
+      "PublishedAt": "2022-11-16T16:55:18Z",
+      "Views": "182",
+      "Likes": "4",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "CV6pNM-N-Hk",
+      "Title": "7 Amazing Reasons You NEED CRM Analytics",
+      "PublishedAt": "2022-11-15T20:31:44Z",
+      "Views": "533",
+      "Likes": "8",
+      "Comments_Count": "3",
+      "Comments": [
+        "Useful 🥳 put more vedio on saql and bindings"
+      ]
+    },
+    {
+      "VideoId": "Rq4xSoQA6pY",
+      "Title": "How Kyle went from Sales to getting a Job at Salesforce!",
+      "PublishedAt": "2022-11-14T16:27:32Z",
+      "Views": "183",
+      "Likes": "8",
+      "Comments_Count": "2",
+      "Comments": [
+        "Shanthi  Murugesan here! I am looking forward to start my learning in Data analyst/science in 2023. Crossed your insta profile instantly hooked on to your videos, gone through all the reels at a stretch!!! Because each video is valuable to me as a newbie in US tech market. Want to implement your tips. Please make more videos on data analyst resources to learn. THANKS MUCH!"
+      ]
+    },
+    {
+      "VideoId": "bYzF95REY4c",
+      "Title": "Virtual Internship with Salesforce #salesforce #jobready #internship #upskill",
+      "PublishedAt": "2022-11-11T20:00:09Z",
+      "Views": "332",
+      "Likes": "17",
+      "Comments_Count": "2",
+      "Comments": [
+        "Please send link"
+      ]
+    },
+    {
+      "VideoId": "n7yoj_EX3pc",
+      "Title": "Top 10 Things To Include On A Resume To Stand Out",
+      "PublishedAt": "2022-11-10T22:20:00Z",
+      "Views": "44",
+      "Likes": "2",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "JmY8NpJYNfQ",
+      "Title": "Why you should use the STAR framework",
+      "PublishedAt": "2022-11-10T04:15:30Z",
+      "Views": "65",
+      "Likes": "1",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "6kdB4YDoJKw",
+      "Title": "Best Websites for Technical Mock Interviews #interview #jobs #techjobs",
+      "PublishedAt": "2022-11-10T04:13:41Z",
+      "Views": "68",
+      "Likes": "1",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "_M304C7Pf6k",
+      "Title": "CRM Analytics Free Training  - Creating Custom Maps for CRM Analytics",
+      "PublishedAt": "2022-11-08T15:35:01Z",
+      "Views": "476",
+      "Likes": "7",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "2JH1BVPrOYI",
+      "Title": "CRM Analytics Free Training - Time Series Forecasting in CRM Analytics",
+      "PublishedAt": "2022-11-07T20:45:27Z",
+      "Views": "364",
+      "Likes": "9",
+      "Comments_Count": "8",
+      "Comments": [
+        "it&#39;s an amazing. Thank a lot. But when i use the time series forecasting trasformation in recipe, i got this error: &quot;We can&#39;t load the preview. Please try previewing the node again. If the problem persists, contact Salesforce Customer Support with this error code: 2000-522edc54-0000vZuAfFADqQq.\r<br>[Error code: 2000, Preview ID: 4ca9c7d5-c685-47ea-9166-a6e08b683585]&quot;<br>Could you pls give me some advanced.<br>Thank you.",
+        "Bro put some more vedio on dashboard and binding",
+        "Interesting 🔥",
+        "Cool video bro, thank you to share your knowledge with us. 🙏"
+      ]
+    },
+    {
+      "VideoId": "77W3M7UTbpc",
+      "Title": "CRM Analytics Free Training (Day 8) - Build Mobile Friendly CRM Analytics Dashboard",
+      "PublishedAt": "2022-11-05T00:30:43Z",
+      "Views": "481",
+      "Likes": "8",
+      "Comments_Count": "5",
+      "Comments": [
+        "Do you have any videos of Salesforce AWS like this series?",
+        "Awesome 😍"
+      ]
+    },
+    {
+      "VideoId": "QRvMgFWiuPU",
+      "Title": "CRM Analytics Free Training (Day 7) - Design your first CRM Analytics Dashboard",
+      "PublishedAt": "2022-11-05T00:24:06Z",
+      "Views": "2041",
+      "Likes": "34",
+      "Comments_Count": "8",
+      "Comments": [
+        "Nice work. I followed it all through. Great lead-in for the Trailhead. For the certificate, what else do we need to know?",
+        "Hi,<br>Please help.\r<br>How to show coloured arrow signs conditionally based on percentage values in CRM analytics dashboard? For example, if the percentage is greater than 0% then show a green upwards arrow icon beside the value and if it&#39;s less than 0% then a downwards red arrow icon beside the value.",
+        "Hello,<br><br>I love your colorful dashboard. Can marketing campaign performances be combined with sales performances in the same dashboard?",
+        "Need help<br>I have zone name East, West,North,South. <br>How can i display on bar chart(Y-axis) as  North,East,West,South ?",
+        "🔥🔥🔥🔥wonderful"
+      ]
+    },
+    {
+      "VideoId": "rRMgEpF8sa8",
+      "Title": "CRM Analytics Free Training (Day 6) - Learn Data Prep Recipes in CRMA",
+      "PublishedAt": "2022-11-03T16:35:04Z",
+      "Views": "1063",
+      "Likes": "18",
+      "Comments_Count": "14",
+      "Comments": [
+        "thanks ,this video is super helpful, but i couldn&#39;t find the link for CSV in the description can someone please help me with that",
+        "Great Explanation and Presentation.",
+        "Very helpful….",
+        "SalesManager CSV link??",
+        "Where is the link???",
+        "Waiting for dashboard creation 😍😍😍"
+      ]
+    },
+    {
+      "VideoId": "ZLM7dhL5U_0",
+      "Title": "CRM Analytics Free Training (Day 5) - Exploring Compare Tables in CRM Analytics",
+      "PublishedAt": "2022-11-03T15:49:39Z",
+      "Views": "1226",
+      "Likes": "27",
+      "Comments_Count": "5",
+      "Comments": [
+        "Thank you so much for great content ..<br>How to do grand total of dataset can you please help me with same?",
+        "Great Content Thank you!",
+        "Great 🥳 bro it&#39;s useful"
+      ]
+    },
+    {
+      "VideoId": "nBW8zMk3qhg",
+      "Title": "CRM Analytics Free Training (Day 4) - Create and Explore Lens in CRM Analytics",
+      "PublishedAt": "2022-11-03T05:00:29Z",
+      "Views": "1326",
+      "Likes": "18",
+      "Comments_Count": "6",
+      "Comments": [
+        "Can I re-order the category as per my requirement like Office Supplies, Furniture &amp; Technology?",
+        "Great 🥳",
+        "<a href=\"about:invalid#zCSafez\"></a>Helpful... Do videos on Binding"
+      ]
+    },
+    {
+      "VideoId": "7lQMrKDOzPg",
+      "Title": "CRM Analytics Free Training (Day 3) - How to upload Dataset in CRM Analytics",
+      "PublishedAt": "2022-11-02T05:00:02Z",
+      "Views": "1201",
+      "Likes": "16",
+      "Comments_Count": "4",
+      "Comments": [
+        "You haven&#39;t given the access to download the dataset",
+        "🥳great"
+      ]
+    },
+    {
+      "VideoId": "ikkm4IhXAWc",
+      "Title": "CRM Analytics Free Training (Day 2) - Install Sales Analytics App in CRM Analytics",
+      "PublishedAt": "2022-11-01T05:00:15Z",
+      "Views": "1823",
+      "Likes": "30",
+      "Comments_Count": "15",
+      "Comments": [
+        "Hi, this is a great learning material. Can you please explain on how to maintain dashboards effectively? In apps. I am the developer for all our different department dashboards right now. Right now I have a individual apps for each department and only few have access to all on a select and demand base. Just curious on how other analysts have their dashboards set up with current version. Thank you in advance .",
+        "Thank you for this, how does the CRM get the data set before breaking it down. Does it work like power bi where you extract the data from other sources?",
+        "The channel and ur course is fantastic sir. It’s so efficient and useful for us thanks u",
+        "can you please provide trail mix  for  CRM Analytics",
+        "This man doing this for free <br>Wowww 💫",
+        "great presentation",
+        "Awesome learning channel 👏",
+        "Faceting understandable 🔥🔥🔥bro"
+      ]
+    },
+    {
+      "VideoId": "rPbPDgBdqTk",
+      "Title": "CRM Analytics Free Training (Day 1) - Spin up your Salesforce Analytics Developer Org",
+      "PublishedAt": "2022-10-31T16:13:07Z",
+      "Views": "2859",
+      "Likes": "37",
+      "Comments_Count": "9",
+      "Comments": [
+        "Hi Sujay, i want to start your tutorial but that link is not giving me option to create an org. It says we could not find requested promotional org. Any idea?",
+        "any exam tips/practice questions. How to study for the exam. How to pass the exam.",
+        "Hi Sir, <br>Could please suggest how we can achieve to download a Salesforce CRM analytics report having a several tabs or pages as a pdf?",
+        "Thnx alot bhaiya 😌🙏",
+        "Done 🔥",
+        "Thanks a lot for this training session...."
+      ]
+    },
+    {
+      "VideoId": "paFZCwzUXWY",
+      "Title": "Welcome to CRM Analytics Training",
+      "PublishedAt": "2022-10-29T19:10:35Z",
+      "Views": "11691",
+      "Likes": "50",
+      "Comments_Count": "8",
+      "Comments": [
+        "Thank you, Sujay. I found this insightful. I&#39;m an Email Marketing manager and new to CRM [Salesforce Pardot CRM]. Could you teach how to adapt the Analytics studio to marketing campaigns&#39; performance metrics?",
+        "please upload day 9 as Day 9 video is missing",
+        "I am preparing tableau CRM. Please post more videos.  proper resource is not available on youtube",
+        "I am preparing for Tableau CRM and Einstein Discovery Consultant Certification exam . is it possible to make exam related videos? Do you have any suggestions for the exam?",
+        "How to access the course?"
+      ]
+    },
+    {
+      "VideoId": "gEOsRYBdiQQ",
+      "Title": "Salesforce PM shows how to use multivalue data in recipes",
+      "PublishedAt": "2022-10-26T02:05:16Z",
+      "Views": "419",
+      "Likes": "12",
+      "Comments_Count": "4",
+      "Comments": [
+        "Surpb Sujay 😊.. Thank you for post",
+        "Hi Thank You for the session 👍"
+      ]
+    },
+    {
+      "VideoId": "5CwSKOnwMdU",
+      "Title": "How to build AMAZING Resumes in minutes using Canva",
+      "PublishedAt": "2022-10-11T20:08:09Z",
+      "Views": "349",
+      "Likes": "6",
+      "Comments_Count": "3",
+      "Comments": [
+        "Very helpful and I followed all the steps. My resume never looked better. Only problem is I can’t print it out or save it to my documents. Can you please show how to do that?"
+      ]
+    },
+    {
+      "VideoId": "eSe64gKG0go",
+      "Title": "Design Beautiful Dashboards using Design Style Guides in Salesforce CRM Analytics",
+      "PublishedAt": "2022-10-07T20:07:20Z",
+      "Views": "1181",
+      "Likes": "16",
+      "Comments_Count": "3",
+      "Comments": [
+        "Exciting content planned in the coming weeks, so please join the growing 10K+ members of thenadcoder family.  Links below 👇<br><br>Youtube: <a href=\"https://tinyurl.com/235cureb\">https://tinyurl.com/235cureb</a><br><br>Instagram: <a href=\"https://tinyurl.com/2p8h3zc3\">https://tinyurl.com/2p8h3zc3</a><br><br>If you want to buy me a cup of coffee or check out other projects, then check out this link: <a href=\"https://withkoji.com/@thenadcoder\">https://withkoji.com/@thenadcoder</a>",
+        "Good going Sujay."
+      ]
+    },
+    {
+      "VideoId": "BRw1Pz0ALHQ",
+      "Title": "Common operations in a data analysis project #analytics #salesforce #careersintech #salesforce",
+      "PublishedAt": "2022-10-05T21:52:45Z",
+      "Views": "110",
+      "Likes": "4",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "os0xK9hofk0",
+      "Title": "Learn Machine Learning in 2 hours #machinelearning #analytics #datascience",
+      "PublishedAt": "2022-10-04T19:42:17Z",
+      "Views": "56",
+      "Likes": "4",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "mlJdue8c320",
+      "Title": "How you can break into Tech with NO experience",
+      "PublishedAt": "2022-09-28T15:19:27Z",
+      "Views": "144",
+      "Likes": "14",
+      "Comments_Count": "1",
+      "Comments": [
+        "Websites:<br><a href=\"http://catchafire.org/\">Catchafire.org</a><br><a href=\"https://taprootfoundation.org/nonprofits/\">https://taprootfoundation.org/nonprofits/</a><br><br>Subscribe to my channels:<br>1.) Insta: <a href=\"https://www.instagram.com/thenadcoder/\">https://www.instagram.com/thenadcoder/</a><br>2.) <a href=\"https://withkoji.com/@thenadcoder\">https://withkoji.com/@thenadcoder</a>"
+      ]
+    },
+    {
+      "VideoId": "gGUF9Sw4SwA",
+      "Title": "Learn No Code Text Clustering in Einstein Discover in under 5 minutes #salesforce",
+      "PublishedAt": "2022-09-20T17:10:21Z",
+      "Views": "140",
+      "Likes": "5",
+      "Comments_Count": "3",
+      "Comments": [
+        "Helpful Links: <a href=\"https://withkoji.com/@thenadcoder\">https://withkoji.com/@thenadcoder</a><br>My Instagram: <a href=\"https://www.instagram.com/thenadcoder/\">https://www.instagram.com/thenadcoder/</a><br>Join Robinhood with my link and we&#39;ll both pick our own free stock 🤝 <a href=\"https://join.robinhood.com/sujaynn\">https://join.robinhood.com/sujaynn</a>",
+        "Nice explanation. 🎉"
+      ]
+    },
+    {
+      "VideoId": "QI7iY7BjdkA",
+      "Title": "Opportunity for fresh grads #salesforce #salesforceadmin #careerfair #careersintech",
+      "PublishedAt": "2022-09-20T15:59:15Z",
+      "Views": "113",
+      "Likes": "7",
+      "Comments_Count": "1",
+      "Comments": [
+        "Can u please share link"
+      ]
+    },
+    {
+      "VideoId": "FSiA3kRHe1c",
+      "Title": "Tech careers that do not require #coding #careersintech #careertips #businessanalyst #salesforce",
+      "PublishedAt": "2022-09-19T16:23:55Z",
+      "Views": "319",
+      "Likes": "12",
+      "Comments_Count": "2",
+      "Comments": [
+        "Can a bcom grad transit into business analytics"
+      ]
+    },
+    {
+      "VideoId": "q6bjeh-jpbo",
+      "Title": "How to build a No-Code Dashboard? #salesforce #analytics #nocode",
+      "PublishedAt": "2022-09-09T13:41:08Z",
+      "Views": "221",
+      "Likes": "4",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "E_7stPiYc2g",
+      "Title": "Things I wish I knew #careersintech #tech #salesforce  #careertips #tech",
+      "PublishedAt": "2022-09-06T15:35:12Z",
+      "Views": "311",
+      "Likes": "7",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "XLkdTR7VwWo",
+      "Title": "DO THIS to make your tool tips Exciting #salesforce #analytics",
+      "PublishedAt": "2022-08-19T18:23:04Z",
+      "Views": "169",
+      "Likes": "11",
+      "Comments_Count": "2",
+      "Comments": [
+        "Great 😊"
+      ]
+    },
+    {
+      "VideoId": "BEMU7cKqITE",
+      "Title": "Top Reasons to Learn #salesforce flows #automation #salesforceadmin #salesforceknowledge",
+      "PublishedAt": "2022-08-15T21:08:11Z",
+      "Views": "249",
+      "Likes": "9",
+      "Comments_Count": "2",
+      "Comments": [
+        "Sir please make a video On Revenue intelligence in Salesforce"
+      ]
+    },
+    {
+      "VideoId": "MpO75K1uaiI",
+      "Title": "Email template to convince your boss for attending #dreamforce #salesforce #conference",
+      "PublishedAt": "2022-08-05T15:40:56Z",
+      "Views": "99",
+      "Likes": "2",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "4ozz0EjeUQE",
+      "Title": "Drive your Analytics Adoption using In-App Guidance",
+      "PublishedAt": "2022-08-02T17:50:26Z",
+      "Views": "204",
+      "Likes": "11",
+      "Comments_Count": "8",
+      "Comments": [
+        "Nice",
+        "Superb",
+        "Surpb😊",
+        "Awesome thanks for sharing , we are using TCRM , I will use this feature soon .. 😊"
+      ]
+    },
+    {
+      "VideoId": "XBkWSafl7h4",
+      "Title": "How to pass Salesforce User Experience (UX) Designer Certification?",
+      "PublishedAt": "2022-07-21T20:29:38Z",
+      "Views": "2905",
+      "Likes": "77",
+      "Comments_Count": "6",
+      "Comments": [
+        "please make a video on Saleforce UX designer career path and how to get job. Thanks appreciate your  knowledge",
+        "Very helpful information, thank you for sharing!",
+        "Can u make a series of videos for ux designer .i can&#39;t find anywhere in internet",
+        "Yes i subscribed bro . Can u pls help how to get more knowledge and to get certification .",
+        "🌺 🄿🅁🄾🄼🄾🅂🄼"
+      ]
+    },
+    {
+      "VideoId": "bjVpGndIvpg",
+      "Title": "How to Pass Salesforce Business Analyst Certification?",
+      "PublishedAt": "2022-07-15T17:09:52Z",
+      "Views": "6753",
+      "Likes": "225",
+      "Comments_Count": "25",
+      "Comments": [
+        "Great video! Very helpful to hear your thoughts on the position and the value business analysts can provide in SFDC projects.",
+        "Love the dogs!",
+        "What was the exam pattern for BA? The number of questions, time allocated?",
+        "Subscribed. Your content is very helpful. Glad I found your channel.",
+        "Nice content ! I am a Junior BA. Are the above materials sufficient to pass the exam? Also, how long does it take (for an average student) to clear both Admin and BA certs? Thanks",
+        "Hi, Thank you so much for sharing your tips and tricks. It is very informative. I am a junior BA. Wanted to write this <a href=\"http://certifications.do/\">certifications.Do</a> you think going over trailhead modules alone will help.passing this certification ? Should I have to focus on any other source aswell.",
+        "Thank you!!",
+        "I just passed this cert using the trailhead links in the description - all really good, relevant info which came up in the exam. Thanks!",
+        "Sujay is the best",
+        "Thank you. I’m prepping now",
+        "Nice video thanks. Can a Salesforce certified professional start his own small business",
+        "Hi, useful information thanks! <br> I would know more about it, is there a way to connect with you",
+        "Amazing video! Thank you for the shout out!",
+        "Excellent info. I appreciate it!"
+      ]
+    },
+    {
+      "VideoId": "5G0jF8SW564",
+      "Title": "New Salesforce Certification for Business Analysts #businessanalyst #salesforce #certification",
+      "PublishedAt": "2022-07-08T16:16:56Z",
+      "Views": "616",
+      "Likes": "13",
+      "Comments_Count": "2",
+      "Comments": [
+        "May I ask what is the benefit to get this certificate? Does it help to get job?"
+      ]
+    },
+    {
+      "VideoId": "610oBqdTWek",
+      "Title": "Get a discount on your #Salesforce #certification #salesforceadmin #salesforceohana",
+      "PublishedAt": "2022-07-07T13:51:37Z",
+      "Views": "123",
+      "Likes": "2",
+      "Comments_Count": "2",
+      "Comments": [
+        "can we redeem that $200 voucher in cash ?? or we can use that voucher only for course???"
+      ]
+    },
+    {
+      "VideoId": "y42G4z7kGs4",
+      "Title": "Day in the life of a #salesforce business analyst #shorts #salesforce #businessanalyst #career",
+      "PublishedAt": "2022-06-25T01:43:50Z",
+      "Views": "2105",
+      "Likes": "72",
+      "Comments_Count": "3",
+      "Comments": [
+        "Iam a salesforce admin want to become a Salesforce business analyst how to become?",
+        "Hi bro i want to become Salesforce business analyst, what are important topics"
+      ]
+    },
+    {
+      "VideoId": "NhvZT_uCYDI",
+      "Title": "Confusion Matrix Fundamentals Explained in 3 MINUTES!",
+      "PublishedAt": "2022-06-24T19:55:40Z",
+      "Views": "107",
+      "Likes": "5",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "hn1JH5iImjg",
+      "Title": "SQL QUERIES YOU MUST KNOW #sql #sqlserver #datascience #dataanalytics #shorts #learnsql",
+      "PublishedAt": "2022-06-22T19:20:57Z",
+      "Views": "79",
+      "Likes": "2",
+      "Comments_Count": "3",
+      "Comments": [
+        "Hi, how to become a Salesforce business analyst from a typical BA ? What is required in terms of training, timing and resources? Thanks"
+      ]
+    },
+    {
+      "VideoId": "9o4ahnIk3_g",
+      "Title": "New Changes to Data Manager in Summer 22 #salesforce #crmanalytics #analytics",
+      "PublishedAt": "2022-06-16T21:16:07Z",
+      "Views": "374",
+      "Likes": "6",
+      "Comments_Count": "2",
+      "Comments": [
+        "How long data we can access from data manager of any object or metadata like account , visualforcerequest pages"
+      ]
+    },
+    {
+      "VideoId": "6CRpk9NiPdY",
+      "Title": "Get salesforce certified by experts + Get discounts #salesforce #salesforceohana #shorts",
+      "PublishedAt": "2022-06-16T16:24:19Z",
+      "Views": "78",
+      "Likes": "3",
+      "Comments_Count": "3",
+      "Comments": [
+        "Hi, I am working on Tableau CRM, I need help in one scenario, Please let me know, if we can sit, I can pay you for that, Please give reponse."
+      ]
+    },
+    {
+      "VideoId": "m5fc4Nfqaw8",
+      "Title": "Difference between Regression and Classification Models explained! #shorts #datascience",
+      "PublishedAt": "2022-06-07T21:06:30Z",
+      "Views": "305",
+      "Likes": "17",
+      "Comments_Count": "2",
+      "Comments": [
+        "nice it helped me"
+      ]
+    },
+    {
+      "VideoId": "CxZFQMWsok4",
+      "Title": "Learn more than Salesforce at Trailhead #shorts #salesforce #mba #career #learningtechnology",
+      "PublishedAt": "2022-06-06T21:07:36Z",
+      "Views": "109",
+      "Likes": "5",
+      "Comments_Count": "2",
+      "Comments": [
+        "Can you help in getting a job &amp; selecting course in sales force"
+      ]
+    },
+    {
+      "VideoId": "A2jKiLhyPkE",
+      "Title": "Two excel skills that everyone must know #shorts #datascience #excel",
+      "PublishedAt": "2022-06-03T19:54:40Z",
+      "Views": "87",
+      "Likes": "1",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "RvIimMi8srM",
+      "Title": "How to Change Default Fields on a Dataset in CRM Analtyics (Tableau CRM)",
+      "PublishedAt": "2022-06-03T16:17:48Z",
+      "Views": "328",
+      "Likes": "10",
+      "Comments_Count": "3",
+      "Comments": [
+        "I get a pop up that if I save these defaults it will change all dashboards and lenses using that dataset (like those already built too). Is there a way to set defaults moving forward if we already started building stuff that we do not want to change?",
+        "I&#39;m missing the &quot;edit values&quot; option in the fields pane. Why could that be?"
+      ]
+    },
+    {
+      "VideoId": "1bGct2eD_Xo",
+      "Title": "3 things you can do to get a job in the Salesforce ecosystem #shorts #salesforce #jobsearch",
+      "PublishedAt": "2022-06-02T19:48:36Z",
+      "Views": "913",
+      "Likes": "52",
+      "Comments_Count": "1",
+      "Comments": [
+        "🔥🔥🔥<br>68 badges in. Admin exam next and update my portfolio 🫡"
+      ]
+    },
+    {
+      "VideoId": "S5TI1rhR_yU",
+      "Title": "BEST FREE Resources for learning Data Science #shorts #datascience #analytics #machinelearning",
+      "PublishedAt": "2022-06-01T18:18:06Z",
+      "Views": "160",
+      "Likes": "5",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "nzglHcvI3Qs",
+      "Title": "Three reasons to be a Data Scientist this year #shorts #analytics #datascience #salesforce",
+      "PublishedAt": "2022-05-31T20:43:23Z",
+      "Views": "746",
+      "Likes": "11",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "oEzxtiUdx-8",
+      "Title": "How to add Profile Picture to your Sales Leaderboard Dashboard in #Salesforce CRM #Analytics",
+      "PublishedAt": "2022-05-25T17:00:26Z",
+      "Views": "797",
+      "Likes": "22",
+      "Comments_Count": "7",
+      "Comments": [
+        "Wonderful!",
+        "Hey this was great! Thanks for the video.",
+        "Sweet!  This is great. Thank you for sharing.",
+        "Is this something that can only be done utilizing tablou"
+      ]
+    },
+    {
+      "VideoId": "m_ldxeIQoV0",
+      "Title": "How to create AMAZING Repeater Widgets in Salesforce CRM Analytics #salesforce #analytics #data",
+      "PublishedAt": "2022-05-20T14:52:02Z",
+      "Views": "1170",
+      "Likes": "29",
+      "Comments_Count": "7",
+      "Comments": [
+        "Hello Sujay<br>Can we display aggregate value instead of field value in repeater. I want to show aggregate value from Table to show as KPI at the top of Dashboard",
+        "Thank you again for another awesome post Sujay. Its help lots. Could you please post next or coming video on deployment Techniques for Tableau CRM.. Still we don&#39;t have any video on platform. Thank you",
+        "Great intro to repeater widget functionality! Thank you. <br><br>An idea for another repeater video: show how to add dynamic images (example could be to add the picture of each Opp Owner in your Top 5 list)."
+      ]
+    },
+    {
+      "VideoId": "pV4HEKwcuMQ",
+      "Title": "How to get Tweets from Python and run data analysis in Salesforce CRM Analytics",
+      "PublishedAt": "2022-05-13T15:16:28Z",
+      "Views": "195",
+      "Likes": "4",
+      "Comments_Count": "2",
+      "Comments": [
+        "Nice intro...Please i would like to see more use cases from Twitter"
+      ]
+    },
+    {
+      "VideoId": "8wx0Exj4tVY",
+      "Title": "How to create a Sports Analytics Dashboard in Salesforce CRM Analytics",
+      "PublishedAt": "2022-05-09T16:26:23Z",
+      "Views": "694",
+      "Likes": "20",
+      "Comments_Count": "8",
+      "Comments": [
+        "Dataset can be found here: <a href=\"https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020\">https://www.kaggle.com/datasets/patrickb1912/ipl-complete-dataset-20082020</a>",
+        "Hi, I have a query in Tableau CRM, I want calculate max(order date) within my dataset, as order date is a field in dataset, date should be based on day like(yyyy-mm-dd). I tried it in recipe, and saql, but not got the answer. Please suggest.",
+        "I tried to run my recipe which I created exactly the way you’ve done but it’s giving me an error. It’s saying there’s a limit on the number of rows (250,000). Any ways to get around this? I had to add a filter to exclude some data to make the recipe run",
+        "Great video <br>Something about Mumbai to cheer about this year"
+      ]
+    },
+    {
+      "VideoId": "nNzI5GSIejE",
+      "Title": "How to Perform Netflix Stock Analysis in Salesforce CRM Analytics",
+      "PublishedAt": "2022-04-26T03:42:30Z",
+      "Views": "499",
+      "Likes": "18",
+      "Comments_Count": "12",
+      "Comments": [
+        "Links:<br><br>Netflix Historical Data:<br><a href=\"https://finance.yahoo.com/quote/NFLX/history?p=NFLX\">https://finance.yahoo.com/quote/NFLX/history?p=NFLX</a><br><br>Color Pallette for Netflix:<br><a href=\"https://www.color-hex.com/color-palette/22942\">https://www.color-hex.com/color-palette/22942</a>",
+        "Hi, I want to create a date range filter in Dashboard, like start date and end date both range will use order date only. under the start date and end date  we can see year, month, days so that user can choose year, month, day according to choice. Please give some idea on this. Thanks!",
+        "This is awesome!  Thank you!",
+        "This is very helpful video.  Thank you Sujay!!!",
+        "Too Good!  Sujay 🌟",
+        "Can you post your blogs link in description or in comments",
+        "super cool"
+      ]
+    },
+    {
+      "VideoId": "m0DxZCrMuH8",
+      "Title": "How to Create Dashboards for Mobile in CRM Analytics",
+      "PublishedAt": "2022-04-22T18:34:19Z",
+      "Views": "231",
+      "Likes": "5",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "Iqk7A0ROgcw",
+      "Title": "Automate Machine Learning using Salesforce Einstein Discovery",
+      "PublishedAt": "2022-03-31T17:38:49Z",
+      "Views": "507",
+      "Likes": "24",
+      "Comments_Count": "5",
+      "Comments": [
+        "Brilliant demo @thenadcoder, thank you! !!! These videos are so informative.",
+        "Nice presentation. Did I  miss you doing the 70/30 split into test data in TCRM also?"
+      ]
+    },
+    {
+      "VideoId": "tctP2lYEL0w",
+      "Title": "Create user journeys and drive adoption using Collections in Tableau CRM Analytics",
+      "PublishedAt": "2022-03-23T18:54:48Z",
+      "Views": "307",
+      "Likes": "12",
+      "Comments_Count": "2",
+      "Comments": [
+        "I wasn&#39;t aware of this Sujay.<br>Thanks for doing this Video.<br>Great one!"
+      ]
+    },
+    {
+      "VideoId": "0fRUNt7SkwE",
+      "Title": "Write SQL Queries in Tableau CRM",
+      "PublishedAt": "2022-03-10T19:41:38Z",
+      "Views": "939",
+      "Likes": "14",
+      "Comments_Count": "2",
+      "Comments": [
+        "Quite helpful.. thanks!"
+      ]
+    },
+    {
+      "VideoId": "XfFaPDqoQgg",
+      "Title": "How to Perform Time Series Analysis using Clicks in Salesforce",
+      "PublishedAt": "2022-03-02T17:40:28Z",
+      "Views": "365",
+      "Likes": "13",
+      "Comments_Count": "9",
+      "Comments": [
+        "This is good stuff.  Thank you for sharing.  I am a fan.",
+        "Hello @thenadcoder.<br>I was working with time series forecasting and i selected the date as Year-Month. And in my date field actual date duration is from June21-March22 , but after using the time series forecasting , in dashboard forecasted chart date is showing from May-21 to Feb-22.<br>what is the solution for this to show the correct date months.",
+        "Thank you😊 You made this easy to understand😊"
+      ]
+    },
+    {
+      "VideoId": "cRUOKuXTmrQ",
+      "Title": "How to get Einstein Discovery Insights on Salesforce Lightning Reports",
+      "PublishedAt": "2022-02-11T16:27:02Z",
+      "Views": "237",
+      "Likes": "9",
+      "Comments_Count": "5",
+      "Comments": [
+        "Nice video Sujay..<br>make a complete series on the tableau CRM 🙂",
+        "Hi I need one small help.. is it possible to automate CSV upload in Einstein analytics to create dataset.<br><br>I have a requirement where the CSV file will be placed in some shared location and Einstein should fetch that file and create dataset weekly or monthly. It would be great help if you suggest something on it.",
+        "Great feature. The limitation is that the entire analysis is done only based on the selected columns of the report."
+      ]
+    },
+    {
+      "VideoId": "EcOGmqfg2q8",
+      "Title": "How to find TRENDING Keywords in your Salesforce instance using Tableau CRM?",
+      "PublishedAt": "2022-01-28T18:02:21Z",
+      "Views": "187",
+      "Likes": "10",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "I7VMueAepSI",
+      "Title": "Update Salesforce Records using Tableau CRM's output connector",
+      "PublishedAt": "2022-01-20T18:38:37Z",
+      "Views": "771",
+      "Likes": "30",
+      "Comments_Count": "17",
+      "Comments": [
+        "I am running my recipe for some other scenario but it is not updating anything in the salesforce side. Even all the setting are good. Can you please help me what could be the reason for that?",
+        "We used this feature in our project by seeing your video , thanks for sharing your knowledge .. it’s really helpful",
+        "Can I use this as a scheduled flow for update massively the records in daily basis? Is there any consideration in terms of platform governor limits? Because when we use flow/apex we need to be aware of many variable, such as triggers, validation rules, batch size, etc. for the specific object",
+        "Interesting",
+        "Thank you Sujay!! <br>Another wonderful post!!",
+        "Hi Sujay,<br>Thanks for sharing.<br>It&#39;s a great use case.<br>I tried this out. Meanwhile I faced one issue. <br>I created recipe, added input data for Accounts , opportunities and cases. After joining accounts and opportunities when I select account id as lookup , in preview section I&#39;m not able to see any records. Same issue while joining Account and case as well. In my salesforce org there are records for all the 3 objects but not able to see in preview section in recipe after join, aggregate as well as after transform. Could not find out any solution for this problem? Can you please suggest what would be the reason behind not getting any records during preview after join ? I needed I can share screenshot as well.",
+        "Keep up the spirit.",
+        "Useful use case!"
+      ]
+    },
+    {
+      "VideoId": "xabVsLDnFVw",
+      "Title": "See How You Can run Machine Learning Algorithms with Salesforce Einstein Discovery Using Clicks",
+      "PublishedAt": "2022-01-14T21:22:02Z",
+      "Views": "641",
+      "Likes": "27",
+      "Comments_Count": "6",
+      "Comments": [
+        "Amazing Video. Can you please tell me that is it only gives R code. Can we get python code?",
+        "Question what is the difference between MAXIMISE Price vs MINIMISE Price?  &amp; what if you&#39;re predicting categorical stuff?",
+        "Great! Can you also come up with vedio wherein Einstein support implementation of external models . How to use those features since inbuilt Einstein support only GLM,GBM,RC,XGBOOST....the upload models in model manager is great way to use multiple external models"
+      ]
+    },
+    {
+      "VideoId": "HoR5fDStP5c",
+      "Title": "Top 3 Resources to Pass your Tableau CRM Certification",
+      "PublishedAt": "2022-01-11T14:45:01Z",
+      "Views": "1310",
+      "Likes": "47",
+      "Comments_Count": "7",
+      "Comments": [
+        "Great❤",
+        "shared ur lindkin id so i can follw u bro",
+        "Any specific coding language requisite for the role like sql python",
+        "Hi. Thanks for sharing all the Tableau CRM Link and video is very productive. I am new to TCRM and want to learn this tool , as I am going to work next wk in this tool. I went throught above link but honestly it is very very confusing. Could not understand where to start. Could you please guide."
+      ]
+    },
+    {
+      "VideoId": "iKXZxjldRCc",
+      "Title": "3 Reasons Why You Should Get a Tableau CRM Certification",
+      "PublishedAt": "2022-01-07T14:45:03Z",
+      "Views": "12439",
+      "Likes": "70",
+      "Comments_Count": "17",
+      "Comments": [
+        "Yes",
+        "Yes sir nice content thanks a lot ❤",
+        "Yes",
+        "Great video Sujay",
+        "Great video, looking forward to seeing more!!",
+        "I&#39;m currently learning Power BI, do you think it will help me pick up Tableau easier?",
+        "Good stuff, thank you for sharing.",
+        "Hi Sujay,<br>This vedio is really inspiring.<br>In my project there is some upcoming work on tableau.  I&#39;m new to the tableau CRM and planning to prepare for Certificate. Is there any specific learning path I should follow to get prepared for the certificate or trailhead superbdges will be sufficient? Need your guidance for certification preparation.<br>Thanks for this vedio.",
+        "Hi Sujay, I have one query regarding Date Filters on Dashboard, Can we control one filter with another.<br>Example:I want to control Closed Date Filter by Created Date filter.(i.e if I apply created date filter , automatically closed date filter should also get applied).<br>Thanks."
+      ]
+    },
+    {
+      "VideoId": "f3WlXDUfFRU",
+      "Title": "No Code Solution to Handle Missing Data for Machine Learning",
+      "PublishedAt": "2021-12-27T14:03:01Z",
+      "Views": "171",
+      "Likes": "9",
+      "Comments_Count": "2",
+      "Comments": [
+        "Great &amp; Helpful video,Expecting a video on clustering  feature in recipes."
+      ]
+    },
+    {
+      "VideoId": "8kl4rArWfeE",
+      "Title": "The BEST chrome extension for Salesforce",
+      "PublishedAt": "2021-12-21T18:57:06Z",
+      "Views": "162",
+      "Likes": "9",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "qAFs6QLYTOs",
+      "Title": "Welcome to NadCoder Channel",
+      "PublishedAt": "2021-12-20T17:15:55Z",
+      "Views": "404",
+      "Likes": "4",
+      "Comments_Count": "0",
+      "Comments": []
+    },
+    {
+      "VideoId": "vFCx-kE4t18",
+      "Title": "How to Choose between a Dataflow and Recipe in Tableau CRM",
+      "PublishedAt": "2021-12-17T15:32:40Z",
+      "Views": "1370",
+      "Likes": "37",
+      "Comments_Count": "3",
+      "Comments": [
+        "I agree recipe is better to some extent but transformations like compute expression and compe relative are very much useful in business scenarios and that is not possible in recipe.",
+        "why are you creating a Recipe from DATASET? to compare dataflow and recipes is to create a recipe from raw objects and show how to join the objects as complicated as you showed in the dataflow 1st half of the video. the 1st part of the video looked very complicated. I think the recipe section you should had joined the opportunity object with the account and other objects show the pros and cons between the dataset builder and recipe for a fair comparecence between the 2, but i do agree with you recipes are better..."
+      ]
+    },
+    {
+      "VideoId": "-uukclAdlyM",
+      "Title": "Performing No Code Sentiment Analysis in Tableau CRM",
+      "PublishedAt": "2021-12-14T22:29:10Z",
+      "Views": "2770",
+      "Likes": "36",
+      "Comments_Count": "11",
+      "Comments": [
+        "i learned salesfoce analytice while watching your video its a relly helpfull just need you litle help in dataset refresh or update with new imported records values.",
+        "Very useful",
+        "Amazing video",
+        "Awesome video. Thanks",
+        "Can u do a video for creating lwc datatable on Tableau CRM dashboard which wil populate the table according to widget selection(interaction)?",
+        "Hi sir,<br>I am looking for help as for Einstein dashboard and dataset creation etc"
+      ]
+    },
+    {
+      "VideoId": "VYeMw_YxV0E",
+      "Title": "Time Series Forecasting in Tableau CRM using SAQL",
+      "PublishedAt": "2021-12-09T21:25:56Z",
+      "Views": "653",
+      "Likes": "12",
+      "Comments_Count": "6",
+      "Comments": [
+        "What model is applied in this case.. Additive or multiplicative? Very interesting and helpful video by the way.",
+        "I am amazed by the time to value of the content you are creating on your channel. Kudos to you!! Looking forward for more videos.",
+        "I need to become am expert in Tab CRM. What&#39;s the best way? Trailhead seems to generic.."
+      ]
+    },
+    {
+      "VideoId": "IME6ibbbTXw",
+      "Title": "Time Series Forecasting in Tableau CRM",
+      "PublishedAt": "2021-12-02T23:03:16Z",
+      "Views": "1923",
+      "Likes": "17",
+      "Comments_Count": "6",
+      "Comments": [
+        "👌",
+        "Thanks you so much for the information recently we implemented TCRM in our org your vedios are really helping us .. <br>can plz do an videos how can we send data from TCRM to external data source ( we need live sync ) we know that live connection should use but for sure we will face some some issues rite if we see your vedios we will avoid those issues before itself .. that’s my confidence.. hope you fulfill my request .. <br>thanks in advance",
+        "Hi, Thank you for post..   could you please let me know about &quot;Date for Time Series&quot; , Which values we need to enter on this. Seems  &quot;Date for Time Series&quot; new in this"
+      ]
+    },
+    {
+      "VideoId": "bllp7LV1ikg",
+      "Title": "5 Salesforce commands to give you massive insights about your dataflows",
+      "PublishedAt": "2021-11-12T21:03:16Z",
+      "Views": "490",
+      "Likes": "5",
+      "Comments_Count": "2",
+      "Comments": [
+        "Thank You , you made it so simple."
+      ]
+    },
+    {
+      "VideoId": "fId6WLXkA4I",
+      "Title": "Reusable Components in Tableau CRM",
+      "PublishedAt": "2021-11-03T21:11:47Z",
+      "Views": "463",
+      "Likes": "8",
+      "Comments_Count": "0",
+      "Comments": []
+    }
+  ]
+}
