@@ -65,4 +65,7 @@ user query:
 ![image](https://github.com/Soujanya-CS/YouTube-Data-Harvesting/assets/136436804/925e62e6-eb25-4231-a242-00f1aa2b5349)
 
 
+json formatted:
+
+![image](https://github.com/Soujanya-CS/YouTube-Data-Harvesting/assets/136436804/75eeac38-1c62-41fd-b523-a754824d6099)
 
