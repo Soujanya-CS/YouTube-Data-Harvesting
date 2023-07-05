@@ -7,7 +7,6 @@ MongoDB: A NoSQL database used for storing the YouTube channel details.
 
 MySQL: A relational database management system used for migrating the data from MongoDB and performing queries.
 
-Streamlit: A Python library used for building interactive web applications.
 
 Packages:
 
