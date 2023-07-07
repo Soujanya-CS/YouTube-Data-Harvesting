@@ -11,12 +11,12 @@ from datetime import datetime
 st.title('Youtube Data Analysis')
 
 # Connect to MongoDB
-client = pymongo.MongoClient('myconnectionlink')
-database = client['Youtubetrial']
+client = pymongo.MongoClient('mongodb+srv://username:****@cluster0.stgpqbt.mongodb.net/')
+database = client['youtubedb']
 channel_collection = database['channels_Data']
 
 # Set up YouTube API client
-api_key = 'myapikey'
+api_key = 'myAPIKey'
 youtube = build('youtube', 'v3', developerKey=api_key)
 
 def youtube_analysis_page():
@@ -180,8 +180,8 @@ def youtube_analysis_page():
         connection = pymysql.connect(
             host='localhost',
             user='root',
-            password='mydbpassword',
-            database='youtubetrial'
+            password='DBPassword',
+            database='youtubedb'
         )
 
         # Create tables if they don't exist
@@ -223,53 +223,67 @@ def youtube_analysis_page():
 
             connection.commit()
           # Retrieve channel data from MongoDB
-            channel_data = channel_collection.find_one({})
+            channel_data = channel_collection.find_one({"Channel_Details.ChannelId": channel_id})
 
-         # Insert channel data into MySQL
-            channel_values = (
-             channel_data["Channel_Details"]["ChannelId"],
-             channel_data["Channel_Details"]["Channel_Name"],
-             int(channel_data["Channel_Details"]["Total_Videos"]),
-             int(channel_data["Channel_Details"]["Subscriber_Count"]),
-             int(channel_data["Channel_Details"]["Views"])
-            )
-            cursor.execute('''
-            INSERT INTO channels (ChannelId, Channel_Name, Total_Videos, Subscriber_Count, Views)
-            VALUES (%s, %s, %s, %s, %s)
-            ''', channel_values)
+             # Insert channel data into MySQL
+            if channel_data is not None:
+               for channel_key, channel_value in channel_data.items():
+                if channel_key == "Channel_Details":
+                   channel = channel_value
+                   channel_values = (
+                    channel["ChannelId"],
+                    channel["Channel_Name"],
+                    int(channel["Total_Videos"]),
+                    int(channel["Subscriber_Count"]),
+                    int(channel["Views"])
+                )
+                   cursor.execute('''
+                   INSERT INTO channels (ChannelId, Channel_Name, Total_Videos, Subscriber_Count, Views)
+                   VALUES (%s, %s, %s, %s, %s)
+                   ON DUPLICATE KEY UPDATE
+                   Channel_Name = VALUES(Channel_Name),
+                   Total_Videos = VALUES(Total_Videos),
+                   Subscriber_Count = VALUES(Subscriber_Count),
+                   Views = VALUES(Views)
+                  ''', channel_values)
 
-           # Retrieve video data from MongoDB
-            video_data = channel_data["Videos"]
+                elif channel_key == "Videos":
+                  video_data = channel_value
+                  for video in video_data:
+                    video_values = (
+                     video["VideoId"],
+                     channel["ChannelId"],
+                     video["Title"],
+                     datetime.strptime(video["PublishedAt"], '%Y-%m-%dT%H:%M:%SZ'),  # Convert to datetime object
+                     int(video["Views"]),
+                     int(video["Likes"]),
+                     int(video["Comments_Count"])
+                    )
+                    cursor.execute('''
+                    INSERT INTO videos (VideoId, ChannelId, Title, Published_date, Views, Likes, Comments_Count)
+                    VALUES (%s, %s, %s, %s, %s, %s, %s)
+                    ON DUPLICATE KEY UPDATE
+                    Title=VALUES(Title),
+                    Published_date=VALUES(Published_date),
+                    Views= VALUES(Views),
+                    Likes= VALUES(Likes),
+                    Comments_Count=VALUES(Comments_Count) 
+                    ''', video_values)
 
-          # Insert video data into MySQL
-            for video in video_data:
-               video_values = (
-               video["VideoId"],
-               channel_data["Channel_Details"]["ChannelId"],
-               video["Title"],
-               datetime.strptime(video["PublishedAt"], '%Y-%m-%dT%H:%M:%SZ'),  # Convert to datetime object
-               int(video["Views"]),
-               int(video["Likes"]),
-               int(video["Comments_Count"])
-               )
-               cursor.execute('''
-               INSERT INTO videos (VideoId, ChannelId, Title, Published_date, Views, Likes, Comments_Count)
-               VALUES (%s, %s, %s, %s, %s, %s, %s)
-               ''', video_values)
+                    # Retrieve comment data from MongoDB
+                    comments = video["Comments"]
 
-             # Retrieve comment data from MongoDB
-               comments = video["Comments"]
-
-             # Insert comment data into MySQL
-               for comment in comments:
-                 comment_values = (
-                   video["VideoId"],
-                   comment
-                 )
-                 cursor.execute('''
-                  INSERT INTO comments (VideoId, Comment)
-                  VALUES (%s, %s)
-                  ''', comment_values)
+                    # Insert comment data into MySQL
+                    if comments is not None:
+                      for comment in comments:
+                        comment_values = (
+                            video["VideoId"],
+                            comment
+                        )
+                        cursor.execute('''
+                            INSERT INTO comments (VideoId, Comment)
+                            VALUES (%s, %s)
+                            ''', comment_values)
 
         connection.commit()
         st.success('Data migrated to MySQL database!')
@@ -280,8 +294,8 @@ def SQL_queries_page():
     connection = pymysql.connect(
         host='localhost',
         user='root',
-        password='mydbpassword',
-        database='youtubetrial'
+        password='DBPassword',
+        database='youtubedb'
     )
 
     def execute_query(query_number, query):
@@ -292,13 +306,12 @@ def SQL_queries_page():
         st.subheader(f'Query Results ({query_number})')
         df = pd.DataFrame(results, columns=[desc[0] for desc in cursor.description])
         st.dataframe(df)
-        #for result in results:
-            #st.write(result)
+        
 
     def query1():
         st.subheader("What are the names of all the videos and their corresponding channels?")
         query = """
-        SELECT videoid, channelid FROM youtubetrial.videos;
+        SELECT videoid, channelid FROM youtubedb.videos;
         """
         execute_query(1, query)
 
